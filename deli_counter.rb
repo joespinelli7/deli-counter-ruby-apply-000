@@ -27,3 +27,7 @@ def now_serving(spinelli_deli)
     spinelli_deli.shift
   end
 end
+
+take_a_number(spinelli_deli, "Dom the bomb")
+now_serving(spinelli_deli)
+line(spinelli_deli)
